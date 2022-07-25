@@ -22,7 +22,7 @@ const Hero = (props) => (
           <br></br>
         </SectionText>
         <a href="https://res.cloudinary.com/dk7xxtqnj/image/upload/v1658736376/THANAI_YODSAENG_a6eeon.png">
-          <Button onClick={props.handleClick}>Learn More</Button>
+          <Button onClick={props.handleClick}>Read More</Button>
         </a>
       </LeftSection>
     </Section>

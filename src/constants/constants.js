@@ -46,10 +46,15 @@ export const projects = [
   },
 ];
 
-// export const TimeLineData = [
-//   { year: 2017, text: "Started my journey" },
-//   { year: 2018, text: "Worked as a freelance developer" },
-//   { year: 2019, text: "Founded JavaScript Mastery" },
-//   { year: 2020, text: "Shared my projects with the world" },
-//   { year: 2021, text: "Started my own platform" },
-// ];
+export const TimeLineData = [
+  { year: 2014, text: "B.O.L Aug 2014 — Mar 2015" },
+  { year: 2017, text: "Benjaram Jun 2017 — Jul 2018" },
+  {
+    year: 2019,
+    text: "Fitness First (Thailand) Co., Ltd.-Evolution Wellness Oct 2019 — Mar 2020",
+  },
+  {
+    year: 2020,
+    text: "Wall Street English (Efficient English Services Ltd.) Oct 2020 — Apr 2021 ",
+  },
+];
