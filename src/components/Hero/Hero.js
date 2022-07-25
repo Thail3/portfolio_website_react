@@ -17,13 +17,9 @@ const Hero = (props) => (
           THANAI YODSAENG
         </SectionTitle>
         <SectionText>
+          <br></br>
           Accountant graduate aspires to be a software engineer. <br></br>
-          <br></br>I have accumulated work experience. Whether it's accounting,
-          document work, or sales, to increase my skills in various fields until
-          I found another turning point, I thought that I could work on anything
-          during this period. A friend of mine who is a programmer suggested
-          that I try to learn to write code. At that time, I decided to study on
-          my own. I have discovered that I love it very much
+          <br></br>
         </SectionText>
         <a href="https://res.cloudinary.com/dk7xxtqnj/image/upload/v1658736376/THANAI_YODSAENG_a6eeon.png">
           <Button onClick={props.handleClick}>Learn More</Button>
