@@ -21,7 +21,7 @@ const Hero = (props) => (
           Accountant graduate aspires to be a software engineer. <br></br>
           <br></br>
         </SectionText>
-        <a href="https://res.cloudinary.com/dk7xxtqnj/image/upload/v1659156710/THANAI_YODSAENG_ewdy4u.png">
+        <a href="https://res.cloudinary.com/dk7xxtqnj/image/upload/v1661159967/THANAI_YODSAENG_cupfc5.png">
           <Button onClick={props.handleClick}>Read More</Button>
         </a>
       </LeftSection>

@@ -1,5 +1,16 @@
 export const projects = [
   {
+    title: "Action-plan",
+    description:
+      "This project was created for us to check the activities that we do. Can see whether the finished or not finished activity",
+    image:
+      "https://res.cloudinary.com/dk7xxtqnj/image/upload/v1661160856/Web_capture_22-8-2022_163246_action-plan.vercel.app_beqf5y.jpg",
+    tags: ["React", "Node", "Express", "MongoDB", "Mongoose"],
+    // source: "https://github.com/Thail3/Jammming-func-",
+    visit: "https://action-plan.vercel.app/",
+    id: 0,
+  },
+  {
     title: "Spotify-search-track",
     description:
       "Here you can search for any song or artist you want. using the API from Spotify",
